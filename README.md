@@ -1,2 +1,0 @@
-# School
-Site for school
